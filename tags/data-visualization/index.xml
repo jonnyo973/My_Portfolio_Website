@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Portfolio De Jon</title>
+    <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/data-visualization/</link>
+    <description>Recent content in Data Visualization on Portfolio De Jon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jonnyo973.github.io/My_Portfolio_Website/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Los Angeles Traffic</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project2/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project2/</guid>
+      <description>Took 3 CSV files and merged than in Python using the Pandas package. Used multiple visualizations to explore relationships effecting traffic. The worst days to drive is on Fridays after work hours.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Video Games Sales Prediction</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project4/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project4/</guid>
+      <description>Explored the data to find many abnormalities and bad data collection. Used Naive Bayes, Random Forest, Linear and Logistic Regression to try and predict Sales and greater than or less than median sales grouped by platform(i.e PS2, Xbox1), also reffered as system or console. Linear Regression results : R-squared =.47 ; MAE = .6 logistic Regression results : Accuracy = .82    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Exploring UFC Fighters</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project5/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project5/</guid>
+      <description>Explored some UFC data Winners vs Losers and the GOAT Mighty Mouse vs the average fighter winner Used multiple visualizations in R and ggplot2 with edits in Adobe illustrator. Major finding is Mighty Mouse outclasses his opponent on a level above the average fighter. His pace gradually increases and he dominates his fights in the 4 key categories explored(Strike, Control Time, Takedowns, Ground Control Time).    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Airline Satisfaction Exploration</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project6/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project6/</guid>
+      <description>Exploring Customer Satisfaction with Airline Used Map of the U.S to showcase average customer satisfaction by location. Used histograms and sub setting to exploring customer satisfaction by different variables. Used KSVM, Linear Regression, Ordinal Linear Regression to predict customer satisfaction. Major finding was the most important variables are Type of Travel, Business Travelers, Better Service the Type of Class of Travel.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Predicting Forest Fires</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project7/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project7/</guid>
+      <description>Attempted to predict Forest Fires in the Montesinho Natural Park Used histograms and sub setting to exploring Forest Fires by different variables. Used SVM, Linear Regression, Decision Tree, Random Forest, Logistic Regression, Naive Bayes to predict Fires. Best model was Random Forest with 55% Accuracy and 49% False Negative. False negatives were prioritized. Predicting no fire would occur and then a fire happens would be extremely dangerous and horrible.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Financial Analytics</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project8/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project8/</guid>
+      <description>This Project explores Berkshire Hathaway&amp;rsquo;s Stock performance and their stock portfolio over the last three years. The Quant Mod package was used for the data collection, and the portfolio was researched through youtube, articles, and 13k filings. RMD creates a flex dashboard. Conclusion BUY APPLE!!!!    Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

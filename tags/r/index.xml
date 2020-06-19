@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Portfolio De Jon</title>
+    <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/r/</link>
+    <description>Recent content in R on Portfolio De Jon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jonnyo973.github.io/My_Portfolio_Website/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 6: Airline Satisfaction Exploration</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project6/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project6/</guid>
+      <description>Exploring Customer Satisfaction with Airline Used Map of the U.S to showcase average customer satisfaction by location. Used histograms and sub setting to exploring customer satisfaction by different variables. Used KSVM, Linear Regression, Ordinal Linear Regression to predict customer satisfaction. Major finding was the most important variables are Type of Travel, Business Travelers, Better Service the Type of Class of Travel.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Predicting Forest Fires</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project7/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project7/</guid>
+      <description>Attempted to predict Forest Fires in the Montesinho Natural Park Used histograms and sub setting to exploring Forest Fires by different variables. Used SVM, Linear Regression, Decision Tree, Random Forest, Logistic Regression, Naive Bayes to predict Fires. Best model was Random Forest with 55% Accuracy and 49% False Negative. False negatives were prioritized. Predicting no fire would occur and then a fire happens would be extremely dangerous and horrible.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Financial Analytics</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project8/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project8/</guid>
+      <description>This Project explores Berkshire Hathaway&amp;rsquo;s Stock performance and their stock portfolio over the last three years. The Quant Mod package was used for the data collection, and the portfolio was researched through youtube, articles, and 13k filings. RMD creates a flex dashboard. Conclusion BUY APPLE!!!!    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Job and Location Selection</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project9/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project9/</guid>
+      <description>Follow me on my Journey to finding where I want to apply and live through data science using both R and Python. YOUTUBE Link below.
+  The real conclusion will be I want to be a decision scientist, live anywhere, and make enough to live comfortably.
+    Link to Github Repository Link to Youtube Video Series</description>
+    </item>
+    
+  </channel>
+</rss>

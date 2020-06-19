@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Portfolio De Jon</title>
+    <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/</link>
+    <description>Recent content in Tags on Portfolio De Jon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jonnyo973.github.io/My_Portfolio_Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/access/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/data-visualization/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/machine-learning/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/python/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/r/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/reports/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/sql/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/text-mining/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

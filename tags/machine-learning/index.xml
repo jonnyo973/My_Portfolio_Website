@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Portfolio De Jon</title>
+    <link>https://jonnyo973.github.io/My_Portfolio_Website/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Portfolio De Jon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jonnyo973.github.io/My_Portfolio_Website/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Personality Predictor</title>
+      <link>https://jonnyo973.github.io/My_Portfolio_Website/post/project1/</link>
+      <pubDate>Thu, 18 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jonnyo973.github.io/My_Portfolio_Website/post/project1/</guid>
+      <description>Created a tool that predicts Meyers-Brigg Personality based on social media comments, test data had 74% accuracy. Used Support Vector Machine, Multi-Layer Perceptron, Naive Bayes for prediction. Used K-means, LDA, and KNN for topic modeling. Copy and Paste comments and our pipeline will give you a personality result, as a four letter Meyers-Brigg type.    Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
